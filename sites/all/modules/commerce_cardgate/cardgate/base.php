@@ -99,9 +99,7 @@ function check_payment_currency($currency,$payment_method) {
             'cardgatebancontact',
             'cardgatebanktransfer',
             'cardgatebillink',
-            'cardgatesofortbanking',
             'cardgatedirectdebit',
-            'cardgateonlineueberweisen',
             'cardgatespraypay']);
         if ($strictly_euro && $currency != 'EUR') return false;
 
