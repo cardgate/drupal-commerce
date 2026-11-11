@@ -96,9 +96,6 @@ function commerce_cardgate_icons() {
     'paysafecard' => t('Paysafecard'),
     'paysafecash' => t('Paysafecash'),
     'przelewy24' => t('Przelewy'),
-    'sofortbanking' => t('SOFORTbanking'),
-    'sofortpay' => t('SofortPay'),
-    'onlineueberweisen' => t('OnlineÜberweisen'),
     'spraypay' => t('SprayPay')
   );
 

@@ -15,7 +15,7 @@
 		}
 	],
 	"keywords": [
-		"cardgate", "secure", "payment", "ideal", "bancontact", "sofort", "sofortbanking", "banktransfer", "paypal",
+		"cardgate", "secure", "payment", "ideal", "bancontact", "banktransfer", "paypal",
 		"afterpay", "bitcoin", "directdebit"
 	],
 	"require" : {
